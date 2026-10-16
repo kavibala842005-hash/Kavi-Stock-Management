@@ -6,7 +6,7 @@
 
 Kavi Stock Management System is an Excel-based project developed to manage product inventory, billing, and stock availability. It helps track stock levels, calculate bills automatically, and identify low-stock products.
 
-
+![Kavi Stock Management Dashboard](Dashboard.png)
 
 \## 🎯 Features
 
